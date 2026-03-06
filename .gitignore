@@ -1,0 +1,17 @@
+.idea/
+*.iml
+*.iws
+.idea_modules/
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.db
+.env
+.env.local

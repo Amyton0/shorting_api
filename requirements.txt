@@ -1,0 +1,7 @@
+fastapi[standard]==0.115.12
+requests
+SQLAlchemy~=2.0.25
+aiosqlite
+pydantic~=2.12.5
+pytest~=7.4.4
+httpx~=0.25.2
