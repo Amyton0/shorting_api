@@ -43,7 +43,7 @@ Swagger с эндпоинтами будет доступен по ссылке 
 
 ### Установка тестовых зависимостей
 ```bash
-pip install pytest pytest-asyncio httpx aiosqlite
+pip install -r requirements.txt
 ```
 
 ### Запуск всех тестов
